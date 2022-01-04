@@ -22,4 +22,4 @@ async def on_message(message):
         await message.channel.send('Kamu Bisa Download Aplikasi Android WRT Disini : https://wrt.my.id/aplikasi-android-wrt/')
 
 
-client.run('OTI3OTU2NTk0NTQzNjk3OTgw.YdRw7A.haOfwsvirCLiffBh9zwYtswtMdg')
+client.run('OTI3OTU2NTk0NTQzNjk3OTgw.YdRw7A.RV4H7rg__X_86Xf3NTuO0z29tBk')
